@@ -45,6 +45,7 @@ header {
     gap: 5px;
     cursor: pointer;
     border: none;
+    background-color: transparent;
 }
 
 .bar {
