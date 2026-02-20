@@ -42,5 +42,8 @@ Criar uma página institucional moderna para apresentação de serviços odontol
 ---
 
 ## 📷 Preview
+<div display="flex" flex-direction="column">
+  <img src="assets/iphone.png" height="285"/>
+  <img src="assets/Macbook.png" width="500"/>
+</div>
 
-(Coloque aqui um print da tela dentro da pasta /assets e linke a imagem)
